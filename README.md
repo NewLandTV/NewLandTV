@@ -1,5 +1,8 @@
 # JkhTV(Dev Art TV)
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewLandTV&layout=pie&theme=radical)
+
 혼자서 게임 개발, 유튜브, 작곡, 그림 활동을 하고 있는 장경혁tv입니다.
 
 I'm JkhTV and I work alone on Game Development, YouTube, Composition, and Drawing.
