@@ -1,6 +1,6 @@
 # **JkhTV(Development Art TV)**
 
-## **Most Used Languages**
+## **Introduction(소개)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewLandTV&layout=pie&theme=radical)
 
