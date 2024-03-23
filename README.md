@@ -13,6 +13,10 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
 ## **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/@NewLand2019-JkhTV)
+* [NewLand YouTube(New랜드)](https://www.youtube.com/@NewLand2019)
+* [NewLand Music Artist YouTube(New랜드 음악 아티스트)](https://www.youtube.com/@NewLand2019-MusicArtist)
+* [NewLand Maker YouTube(New랜드 메이커)](https://www.youtube.com/@NewLand2019-Maker)
 * [NewLand Cafe(New랜드 카페)](https://cafe.naver.com/2019newland)
 * [NewLand Discord(New랜드 디스코드)](https://discord.gg/2J646MaZGA)
 * [JkhTV Tistory(장경혁tv의 티스토리)](https://jkhtv.tistory.com)
+* [JkhTV Itch.io(장경혁tv Itco.io)](https://d-jangkhtv.itch.io)
