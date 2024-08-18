@@ -24,11 +24,29 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
 
 ## **Links(링크)**
 
-* [JkhTV YouTube(장경혁tv)](https://www.youtube.com/@NewLand2019-JkhTV)
-* [NewLand YouTube(New랜드)](https://www.youtube.com/@NewLand2019)
-* [NewLand Music Artist YouTube(New랜드 음악 아티스트)](https://www.youtube.com/@NewLand2019-MusicArtist)
-* [NewLand Maker YouTube(New랜드 메이커)](https://www.youtube.com/@NewLand2019-Maker)
-* [NewLand Cafe(New랜드 카페)](https://cafe.naver.com/2019newland)
-* [NewLand Discord(New랜드 디스코드)](https://discord.gg/2J646MaZGA)
-* [JkhTV Tistory(장경혁tv의 티스토리)](https://jkhtv.tistory.com)
-* [JkhTV Itch.io(장경혁tv Itco.io)](https://d-jangkhtv.itch.io)
+<div>
+    <a href="https://www.youtube.com/@NewLand2019-JkhTV" target="_blank">
+        <img alt="JkhTV YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/@NewLand2019" target="_blank">
+        <img alt="NewLand YouTube(New랜드)" src="https://img.shields.io/badge/NewLand YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/@NewLand2019-MusicArtist" target="_blank">
+        <img alt="NewLand Music Artist YouTube(New랜드 음악 아티스트)" src="https://img.shields.io/badge/NewLand Music Artist YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/@NewLand2019-Maker" target="_blank">
+        <img alt="NewLand Maker YouTube(New랜드 메이커)" src="https://img.shields.io/badge/NewLand Maker YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://cafe.naver.com/2019newland" target="_blank">
+        <img alt="NewLand 2019 Naver Cafe" src="https://img.shields.io/badge/Naver Cafe-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white"/>
+    </a>
+    <a href="https://discord.gg/2J646MaZGA" target="_blank">
+        <img alt="NewLand Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Discord&logoColor=white"/>
+    </a>
+    <a href="https://jkhtv.tistory.com" target="_blank">
+        <img alt="JkhTV Tistory" src="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white"/>
+    </a>
+    <a href="https://d-jangkhtv.itch.io" target="_blank">
+        <img alt="JkhTV itch.io" src="https://img.shields.io/badge/itch.io-FA5C5C.svg?&style=flat-square&logo=itch.io&logoColor=white"/>
+    </a>
+</div>
