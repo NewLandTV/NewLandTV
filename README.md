@@ -12,7 +12,7 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
 
 ## **IDE I Use(사용하는 통합 개발 환경)**
 
-<img src="https://img.shields.io/badge/VS-Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-IDE-00878F?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Arduino IDE-00878F?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
 ## **Programming Languages I Use(사용하는 프로그래밍 언어)**
 
@@ -20,7 +20,7 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
 
 ## **Game Engines I Use(사용하는 게임 엔진)**
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Unreal-Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=black">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 
 ## **Links(링크)**
 
