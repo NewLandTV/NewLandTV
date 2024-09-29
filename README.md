@@ -87,31 +87,6 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                 </ul>
             </details>
         </li>
-    </ul>
-</details>
-
-<details>
-    <summary>In Development(개발 중)</summary>
-    <ul>
-        <li>
-            <details>
-                <summary><h3>Korean Programming Projects</h3></summary>
-                <ul>
-                    <li>
-                        <a href="https://github.com/NewLandTV/KoreanC">Korean C</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/NewLandTV/KoreanPy">Korean Py</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/NewLandTV/KoreanJS">Korean JS</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/NewLandTV/KoreanCs">Korean C#</a>
-                    </li>
-                </ul>
-            </details>
-        </li>
         <li>
             <details>
                 <summary><h3>Discord Bot Projects</h3></summary>
@@ -141,12 +116,72 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
             </details>
         </li>
         <li>
+            <a href="https://github.com/NewLandTV/Notoshop">Notoshop</a>
+        </li>
+        <li>
+            <a href="https://github.com/NewLandTV/CSharp-ConsoleFileExplorer">Console File Explorer</a>
+        </li>
+    </ul>
+</details>
+<details>
+    <summary>In Development(개발 중)</summary>
+    <ul>
+        <li>
+            <details>
+                <summary><h3>Korean Programming Projects</h3></summary>
+                <ul>
+                    <li>
+                        <a href="https://github.com/NewLandTV/KoreanC">Korean C</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/KoreanPy">Korean Py</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/KoreanJS">Korean JS</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/KoreanCs">Korean C#</a>
+                    </li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary><h3>Game Projects</h3></summary>
+                <ul>
+                    <li>
+                        <a href="https://github.com/NewLandTV/ActionMaker">Action Maker</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/AnimalsAndPeople">Animals & People</a>
+                    </li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <a href="https://github.com/NewLandTV/WhatShape">What Shape</a>
+        </li>
+        <li>
+            <a href="https://github.com/NewLandTV/N5">N5(Private)</a>
+        </li>
+        <li>
+            <a href="https://github.com/NewLandTV/LUX_CPP-ConsoleEngine">LUX Console Engine</a>
+        </li>
+        <li>
+            <a href="https://github.com/NewLandTV/DailyPlanner">Daily Planner</a>
+        </li>
+    </ul>
+</details>
+<details>
+    <summary>Development Stop(개발 중단)</summary>
+    <ul>
+        <li>
             <details>
                 <summary><h3>Game Projects</h3></summary>
                 <ul>
                     <li>
                         <a href="https://github.com/NewLandTV/DotsGame">Dots Game(Private)</a>
-                    </li>       
+                    </li>
                     <li>
                         <a href="https://github.com/NewLandTV/Strategy_Survival_Embattle_Mobile_Agent">Strategy Survival Embattle Mobile Agent(Private)</a>
                     </li>
@@ -175,13 +210,13 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                         <a href="https://github.com/NewLandTV/ReDotEmptyTwo">Re Dot Empty Two</a>
                     </li>
                     <li>
-                        <a href="https://github.com/NewLandTV/ActionMaker">Action Maker</a>
-                    </li>
-                    <li>
                         <a href="https://github.com/NewLandTV/SpaceOut">Space Out</a>
                     </li>
                     <li>
                         <a href="https://github.com/NewLandTV/Abiwobi">Abiwobi</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/World">World(Private)</a>
                     </li>
                     <li>
                         <a href="https://github.com/NewLandTV/Tristone">Tristone</a>
@@ -191,6 +226,9 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                     </li>
                     <li>
                         <a href="https://github.com/NewLandTV/Death-Life">Death Life</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/Room-And-Logic">Room & Logic</a>
                     </li>
                     <li>
                         <a href="https://github.com/NewLandTV/GreenTreaty">Green Treaty</a>
@@ -204,23 +242,37 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                     <li>
                         <a href="https://github.com/NewLandTV/Chess">Chess</a>
                     </li>
+                </ul>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary><h3>Web Projects</h3></summary>
+                <ul>
                     <li>
-                        <a href="https://github.com/NewLandTV/AnimalsAndPeople">Animals & People</a>
+                        <a href="https://github.com/NewLandTV/GreenStorage">Green Storage</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/chat-server">Online Chat Server</a>
                     </li>
                 </ul>
             </details>
         </li>
         <li>
-            <a href="https://github.com/NewLandTV/chat-server">Online Chat Server</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/Hanja">Hanja</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/ArabiPy">Arabi Py</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/Soundy">Soundy</a>
+            <details>
+                <summary><h3>Programming Language Projects</h3></summary>
+                <ul>
+                    <li>
+                        <a href="https://github.com/NewLandTV/ArabiPy">Arabi Py</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/J255_Language">J255 Language</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/Numerus">Numerus</a>
+                    </li>
+                </ul>
+            </details>
         </li>
         <li>
             <a href="https://github.com/NewLandTV/Unity-WindLift">Wind Lift</a>
@@ -229,52 +281,25 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
             <a href="https://github.com/NewLandTV/VirtualArea">Virtual Area</a>
         </li>
         <li>
-            <a href="https://github.com/NewLandTV/Room-And-Logic">Room & Logic</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/World">World(Private)</a>
-        </li>
-        <li>
             <a href="https://github.com/NewLandTV/NattyOS">Natty OS</a>
         </li>
         <li>
-            <a href="https://github.com/NewLandTV/NewLive">New Live</a>
+            <a href="https://github.com/NewLandTV/Hanja">Hanja</a>
         </li>
         <li>
-            <a href="https://github.com/NewLandTV/GreenStorage">Green Storage</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/NewComputer">New Computer</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/Numerus">Numerus</a>
+            <a href="https://github.com/NewLandTV/Soundy">Soundy</a>
         </li>
         <li>
             <a href="https://github.com/NewLandTV/ShareYourCode">Share Youur Code(Private)</a>
         </li>
         <li>
-            <a href="https://github.com/NewLandTV/Notoshop">Notoshop</a>
+            <a href="https://github.com/NewLandTV/NewLive">New Live</a>
         </li>
         <li>
-            <a href="https://github.com/NewLandTV/WhatShape">What Shape</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/CSharp-ConsoleFileExplorer">Console File Explorer</a>
+            <a href="https://github.com/NewLandTV/NewComputer">New Computer</a>
         </li>
         <li>
             <a href="https://github.com/NewLandTV/MyHome">My Home</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/N5">N5(Private)</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/LUX_CPP-ConsoleEngine">LUX Console Engine</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/J255_Language">J255 Language</a>
-        </li>
-        <li>
-            <a href="https://github.com/NewLandTV/DailyPlanner">Daily Planner</a>
         </li>
         <li>
             <a href="https://github.com/NewLandTV/Triangle">Triangle</a>
