@@ -153,7 +153,7 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                         <a href="https://github.com/NewLandTV/ActionMaker">Action Maker</a>
                     </li>
                     <li>
-                        <a href="https://github.com/NewLandTV/AnimalsAndPeople">Animals & People</a>
+                        <a href="https://github.com/NewLandTV/AnimalsAndPeople(Private)">Animals & People</a>
                     </li>
                 </ul>
             </details>
