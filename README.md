@@ -41,7 +41,7 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                         <a href="https://github.com/NewLandTV/MoveRun">Move Run(Not Released)</a>
                     </li>
                     <li>
-                        Growing Town
+                        <a href="https://github.com/NewLandTV/GrowingTown">Growing Town(Private)</a>
                     </li>
                     <li>
                         <a href="https://github.com/NewLandTV/RayCaster">Ray Caster(Private)</a>
