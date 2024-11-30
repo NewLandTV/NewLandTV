@@ -173,9 +173,6 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
         <li>
             <a href="https://github.com/NewLandTV/LUX_CPP-ConsoleEngine">LUX Console Engine</a>
         </li>
-        <li>
-            <a href="https://github.com/NewLandTV/DailyPlanner">Daily Planner</a>
-        </li>
     </ul>
 </details>
 <details>
@@ -309,6 +306,9 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
         </li>
         <li>
             <a href="https://github.com/NewLandTV/Triangle">Triangle</a>
+        </li>
+        <li>
+            <a href="https://github.com/NewLandTV/DailyPlanner">Daily Planner</a>
         </li>
     </ul>
 </details>
