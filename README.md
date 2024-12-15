@@ -158,9 +158,6 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                     <li>
                         Black & White World
                     </li>
-                    <li>
-                        <a href="https://github.com/NewLandTV/Yuki">Yuki(Private)</a>
-                    </li>
                 </ul>
             </details>
         </li>
@@ -244,6 +241,9 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                     </li>
                     <li>
                         <a href="https://github.com/NewLandTV/Chess">Chess</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/NewLandTV/Yuki">Yuki(Private)</a>
                     </li>
                 </ul>
             </details>
