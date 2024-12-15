@@ -316,14 +316,14 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
 ## **Links(링크)**
 
 <div>
-    <a href="https://www.youtube.com/@NewLand2019-JkhTV" target="_blank">
+    <a href="https://www.youtube.com/@장경혁tv" target="_blank">
         <img alt="JkhTV YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/@NewLand2019" target="_blank">
         <img alt="NewLand YouTube(New랜드)" src="https://img.shields.io/badge/NewLand YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/@NewLand2019-MusicArtist" target="_blank">
-        <img alt="NewLand Music Artist YouTube(New랜드 음악 아티스트)" src="https://img.shields.io/badge/NewLand Music Artist YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+    <a href="https://www.youtube.com/@MYUPIE" target="_blank">
+        <img alt="前 NewLand Music Artist YouTube(New랜드 음악 아티스트) | 現 MYUPIE, 뮤파이" src="https://img.shields.io/badge/NewLand Music Artist YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/@NewLand2019-Maker" target="_blank">
         <img alt="NewLand Maker YouTube(New랜드 메이커)" src="https://img.shields.io/badge/NewLand Maker YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
