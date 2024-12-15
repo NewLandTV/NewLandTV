@@ -150,16 +150,16 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                 <summary><h3>Game Projects</h3></summary>
                 <ul>
                     <li>
-                        <a href="https://github.com/NewLandTV/GrowingTownV2">Growing Town V2</a>
+                        <a href="https://github.com/NewLandTV/GrowingTownV2">Growing Town V2(Private)</a>
                     </li>
                     <li>
-                        <a href="https://github.com/NewLandTV/AnimalsAndPeople(Private)">Animals & People</a>
+                        <a href="https://github.com/NewLandTV/AnimalsAndPeople">Animals & People(Private)</a>
                     </li>
                     <li>
                         Black & White World
                     </li>
                     <li>
-                        Yuki
+                        <a href="https://github.com/NewLandTV/Yuki">Yuki(Private)</a>
                     </li>
                 </ul>
             </details>
@@ -198,7 +198,7 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
                         <a href="https://github.com/NewLandTV/Iseri-Akiro-Life-Unity">Iseri Akiro Life</a>
                     </li>
                     <li>
-                        <a href="https://github.com/NewLandTV/Small-Island_Life">Small Island Life</a>
+                        <a href="https://github.com/NewLandTV/Small-Island_Life">Small Island Life(Private)</a>
                     </li>
                     <li>
                         <a href="https://github.com/NewLandTV/YoRoTo-Projects">YoRoTo</a>
