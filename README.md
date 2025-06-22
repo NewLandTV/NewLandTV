@@ -325,7 +325,7 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
     <a href="https://www.youtube.com/@MYUPIE" target="_blank">
         <img alt="前 NewLand Music Artist YouTube(New랜드 음악 아티스트) | 現 MYUPIE, 뮤파이" src="https://img.shields.io/badge/NewLand Music Artist YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/@NewLand2019-Maker" target="_blank">
+    <a href="https://www.youtube.com/@nbyabyu" target="_blank">
         <img alt="NewLand Maker YouTube(New랜드 메이커)" src="https://img.shields.io/badge/NewLand Maker YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
     <a href="https://cafe.naver.com/2019newland" target="_blank">
