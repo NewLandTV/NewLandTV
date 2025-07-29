@@ -317,16 +317,16 @@ I'm JkhTV (a.k.a. Development Art TV) and I work alone on Game Development, YouT
 
 <div>
     <a href="https://www.youtube.com/@장경혁tv" target="_blank">
-        <img alt="JkhTV YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+        <img alt="JkhTV YouTube" src="https://img.shields.io/badge/JkhTV-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/@NewLand2019" target="_blank">
-        <img alt="NewLand YouTube(New랜드)" src="https://img.shields.io/badge/NewLand YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+        <img alt="NewLand 2019 YouTube(New랜드)" src="https://img.shields.io/badge/NewLand 2019-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/@MYUPIE" target="_blank">
-        <img alt="前 NewLand Music Artist YouTube(New랜드 음악 아티스트) | 現 MYUPIE, 뮤파이" src="https://img.shields.io/badge/NewLand Music Artist YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+        <img alt="前 NewLand Music Artist YouTube(New랜드 음악 아티스트) | 現 MYUPIE, 뮤파이" src="https://img.shields.io/badge/MyuPie's Music Channel-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/@nbyabyu" target="_blank">
-        <img alt="NewLand Maker YouTube(New랜드 메이커)" src="https://img.shields.io/badge/NewLand Maker YouTube-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
+        <img alt="NewLand Maker YouTube(New랜드 메이커)" src="https://img.shields.io/badge/ByaByu-FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white"/>
     </a>
     <a href="https://cafe.naver.com/2019newland" target="_blank">
         <img alt="NewLand 2019 Naver Cafe" src="https://img.shields.io/badge/Naver Cafe-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white"/>
